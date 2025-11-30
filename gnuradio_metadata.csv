@@ -1,0 +1,11 @@
+# GNURadio Signal Metadata
+# Générateur: PoCRadio - Simulation Airsoft
+sample_rate,1000000
+center_frequency,915000000.0
+modulation,DSSS-BPSK
+spreading_factor,100
+data_rate,10000
+encryption,AES-256-CTR-HMAC
+tx_power_dbm,20.0
+samples,100000
+format,complex_float32
